@@ -1,4 +1,4 @@
-# Version 1.0.1
+# MALA IS HERE
 A customizable welcomer discord bot made with discord.js v12
 Created By Mala
 # 📝 Set-Up
