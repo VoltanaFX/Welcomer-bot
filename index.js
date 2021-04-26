@@ -12,7 +12,7 @@ client.on('ready', () => {
     client.user.setActivity(``, { // Some status
         type: 'WATCHING'
     })
-    setInterval(() => client.user.setActivity(`discord.gg/rmc | ${client.users.cache.size} users`, {
+    setInterval(() => client.user.setActivity(`BotGhost`, {
         type: 'PLAYING'
     }), 1000 * 60 * 2);
 })
