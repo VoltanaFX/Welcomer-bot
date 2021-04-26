@@ -23,7 +23,7 @@ client.on('guildMemberAdd', async member => {
 
     let joinMsg = db.fetch(`joinmsg_${member.guild.id}`)
     if (joinMsg === null) {
-        db.set(`joinmsg_${member.guild.id}`, `Welcome {member:mention}! We now have {server:members} member!`)
+        db.set(`joinmsg_${member.guild.id`)
     }
 
     let newJoinMsg = db.fetch(`joinmsg_${member.guild.id}`)
