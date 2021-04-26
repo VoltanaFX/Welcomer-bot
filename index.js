@@ -199,7 +199,7 @@ client.on('message', async message => {
                 }],
                 timestamp: new Date(),
                 footer: {
-                    text: 'Custom Bots: https://discord.gg/M4Yj2Ay!',
+                    text: 'Custom Bots: https://dsc.gg/botghost!',
                     icon_url: 'https://cdn.discordapp.com/icons/746891148043354152/a_05080a5b943e5ba88fbf884406b8d59e.gif?size=512'
                 },
                 color: 'RED'
@@ -210,10 +210,10 @@ client.on('message', async message => {
         await message.channel.send({
             embed: {
                 title: 'Success!',
-                description: `Join channel set as: <#${Channel.id}>! All welcome messages will be redirected here. If this was a mistake, please configure it again`,
+                description: `Join channel set as: <#${835323007223464048}>! All welcome messages will be redirected here. If this was a mistake, please configure it again`,
                 color: 'GREEN',
                 footer: {
-                    text: 'Custom Bots: https://discord.gg/M4Yj2Ay',
+                    text: 'Custom Bots: https://dsc.gg/botghost',
                     icon_url: 'https://cdn.discordapp.com/icons/746891148043354152/a_05080a5b943e5ba88fbf884406b8d59e.gif?size=512'
                 },
                 timestamp: new Date()
@@ -233,7 +233,7 @@ client.on('message', async message => {
                 }],
                 timestamp: new Date(),
                 footer: {
-                    text: 'Custom Bots: https://discord.gg/M4Yj2Ay!',
+                    text: 'Custom Bots: https://dsc.gg/botghost!',
                     icon_url: 'https://cdn.discordapp.com/icons/746891148043354152/a_05080a5b943e5ba88fbf884406b8d59e.gif?size=512'
                 },
                 color: 'RED'
@@ -244,10 +244,10 @@ client.on('message', async message => {
         await message.channel.send({
             embed: {
                 title: 'Success!',
-                description: `Leave channel set as: <#${Channel.id}>! All leave messages will be redirected here. If this was a mistake, please configure it again`,
+                description: `Leave channel set as: <#${835323007223464048}>! All leave messages will be redirected here. If this was a mistake, please configure it again`,
                 color: 'GREEN',
                 footer: {
-                    text: 'Custom Bots: https://discord.gg/M4Yj2Ay',
+                    text: 'Custom Bots: https://dsc.gg/botghost',
                     icon_url: 'https://cdn.discordapp.com/icons/746891148043354152/a_05080a5b943e5ba88fbf884406b8d59e.gif?size=512'
                 },
                 timestamp: new Date()
@@ -432,4 +432,4 @@ client.on('message', async message => {
 
 })
 
-client.login('') // Token
+client.login('ODIwNDQ2NTQwNTA5MzQ3ODYw.YE1SYg.T2MJlhIKmdn5ONY-MljHVdcPjOk') // Token
