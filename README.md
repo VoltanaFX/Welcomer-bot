@@ -20,4 +20,4 @@ cleardata | cleardata <-- Followed by reaction menu
 # ⚠️ Notes/Warning
 - This bot isn't at its full. If you guys want more let me know ;)
 
-\- [Dark Codes](https://discord.gg/eXqazAu)
+\- [BotGhost](https://dsc.gg/botghost)
