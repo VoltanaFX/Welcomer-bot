@@ -1,6 +1,6 @@
 # Version 1.0.1
 A customizable welcomer discord bot made with discord.js v12
-
+Created By Mala
 # 📝 Set-Up
 - ```npm i```
 - ```npm start```
